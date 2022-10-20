@@ -5,10 +5,10 @@ import Button from './Button'
 
 const Business = () => {
   return (
-    <section id="business" className="md:flex-row flex-col flex items-center justify-between">
+    <section id="business" className="md:flex-row flex-col flex items-center justify-between mb-20">
       {/* left side */}
       <div>
-        <h2 className={`${styles.heading2} mb-10`}>
+        <h2 className={`${styles.heading2} mb-6`}>
           You do the business, <br className="sm:block hidden" /> we’ll handle the money.
         </h2>
         <p className={`${styles.paragraph} max-w-[570px] mb-10`}>
