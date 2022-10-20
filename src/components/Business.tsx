@@ -5,7 +5,7 @@ import Button from './Button'
 
 const Business = () => {
   return (
-    <section id="business" className="md:flex-row flex-col flex items-center justify-between mb-20">
+    <section id="features" className="md:flex-row flex-col flex items-center justify-between mb-20">
       {/* left side */}
       <div>
         <h2 className={`${styles.heading2} mb-6`}>

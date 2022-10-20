@@ -4,7 +4,7 @@ import styles from '../styles'
 
 const Billing = () => {
   return (
-    <section id="billing" className="flex md:flex-row flex-col-reverse relative sm:py-16 py-6">
+    <section id="product" className="flex md:flex-row flex-col-reverse relative sm:py-16 py-6">
       {/* Left side */}
       <div>
         <img src={bill} alt="bill" className="w-[100%] h-[100%] relative z-[5]" />

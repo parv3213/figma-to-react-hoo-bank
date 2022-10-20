@@ -1,7 +1,7 @@
 import React from 'react'
 import { quotes } from '../assets'
 import { feedback as feedbacks } from '../constants'
-import styles, { layout } from '../styles'
+import styles from '../styles'
 
 const Testimonials = () => {
   return (
